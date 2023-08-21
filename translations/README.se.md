@@ -59,7 +59,7 @@ git checkout -b <lägg till ditt branch-namn>
 
 Till exempel:
 ```
-git checkout -b mitt-tillag
+git checkout -b mitt-tillägg
 ```
 
 ## Gör de ändringar du vill göra och commita dem
